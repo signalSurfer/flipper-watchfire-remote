@@ -1,0 +1,10 @@
+UP: /ext/subghz/wfGas/2up.sub
+DOWN: /ext/subghz/wfGas/4down.sub
+LEFT: /ext/subghz/wfGas/1left.sub
+RIGHT: /ext/subghz/wfGas/3right.sub
+OK: /ext/subghz/wfGas/5ok.sub
+ULABEL: UP_2
+DLABEL: DOWN_4
+LLABEL: LEFT_1
+RLABEL: RIGHT_3
+OKLABEL: OK_5
